@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: a71ffb4cb9906404d8a17f8f61f9c877
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2670711564912121948
+    second: calling1
+  - first:
+      213: 4724775556910992211
+    second: calling2
+  - first:
+      213: 1851717745560427777
+    second: calling3
+  - first:
+      213: -4484391713067635968
+    second: calling4
+  - first:
+      213: 5074283713521177274
+    second: calling5
+  - first:
+      213: 9176541499794298688
+    second: calling6
+  - first:
+      213: 6186015577178363791
+    second: calling7
+  - first:
+      213: 265327886667162371
+    second: calling8
+  - first:
+      213: 8828865376202487817
+    second: Kirin1
+  - first:
+      213: 3809516048418089155
+    second: Kirin2
+  - first:
+      213: -1933062331593864313
+    second: Kirin3
+  - first:
+      213: 8475909529943944441
+    second: Kirin4
+  - first:
+      213: 6674670304312746074
+    second: Kirin5
+  - first:
+      213: -4034589706008707454
+    second: Kirin6
+  - first:
+      213: -1628367251674878435
+    second: Kirin7
+  - first:
+      213: -5034369588550278688
+    second: 2_Sasuke_skill_Kirin_22
+  - first:
+      213: 6379114814500121687
+    second: 2_Sasuke_skill_Kirin_23
+  - first:
+      213: -6850252690013889940
+    second: 2_Sasuke_skill_Kirin_24
+  - first:
+      213: -1755422508406527242
+    second: 2_Sasuke_skill_Kirin_25
+  - first:
+      213: 1729682663693786187
+    second: 2_Sasuke_skill_Kirin_27
+  - first:
+      213: 8721366070564400216
+    second: 2_Sasuke_skill_Kirin_28
+  - first:
+      213: 1571845341529711115
+    second: 2_Sasuke_skill_Kirin_29
+  - first:
+      213: 6813395767835991423
+    second: 2_Sasuke_skill_Kirin_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: calling1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 312
+        width: 33
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.5}
+      border: {x: 2, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585d1ca406401520800000000000000
+      internalID: 2670711564912121948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calling2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 312
+        width: 35
+        height: 54
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.5}
+      border: {x: 2, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bc0290656c19140800000000000000
+      internalID: 4724775556910992211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calling3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 312
+        width: 43
+        height: 55
+      alignment: 9
+      pivot: {x: 0.39534885, y: 0.4909091}
+      border: {x: 3, y: 0, z: 12, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d9a609a7f92b910800000000000000
+      internalID: 1851717745560427777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calling4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 312
+        width: 36
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.369863}
+      border: {x: 4, y: 0, z: 4, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00be5ec0f7d34c1c0800000000000000
+      internalID: -4484391713067635968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calling5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 312
+        width: 28
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2daf9172a7b6640800000000000000
+      internalID: 5074283713521177274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calling6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 312
+        width: 28
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36486486}
+      border: {x: 0, y: 0, z: 0, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0479ed9efdf995f70800000000000000
+      internalID: 9176541499794298688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calling7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 312
+        width: 47
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3617021, y: 0.5}
+      border: {x: 3, y: 0, z: 16, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87dfbc746429d550800000000000000
+      internalID: 6186015577178363791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calling8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 312
+        width: 46
+        height: 54
+      alignment: 9
+      pivot: {x: 0.36956522, y: 0.5}
+      border: {x: 3, y: 0, z: 15, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3032dc1ae42aea300800000000000000
+      internalID: 265327886667162371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirin1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 164
+        width: 115
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5446991, y: 0.4918766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9087b46484e668a70800000000000000
+      internalID: 8828865376202487817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirin2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 173
+        width: 118
+        height: 123
+      alignment: 9
+      pivot: {x: 0.55508524, y: 0.4519826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c82c1099ae1ed430800000000000000
+      internalID: 3809516048418089155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirin3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 165
+        width: 105
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5147391, y: 0.48464513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bc8ac1d026c25e0800000000000000
+      internalID: -1933062331593864313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirin4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 170
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.6942149, y: 0.44444445}
+      border: {x: 47, y: 0, z: 0, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc28a86fca70a570800000000000000
+      internalID: 8475909529943944441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirin5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 171
+        width: 99
+        height: 76
+      alignment: 9
+      pivot: {x: 0.67676765, y: 0.5}
+      border: {x: 35, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e861274131ac50800000000000000
+      internalID: 6674670304312746074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirin6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 171
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.6567164, y: 0.5}
+      border: {x: 19, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e37eed9024208c0800000000000000
+      internalID: -4034589706008707454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirin7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 202
+        width: 67
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5522388, y: 0.5}
+      border: {x: 7, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e2a00bc90e669e0800000000000000
+      internalID: -1628367251674878435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Sasuke_skill_Kirin_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28
+        width: 78
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e16e6e4883522ab0800000000000000
+      internalID: -5034369588550278688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Sasuke_skill_Kirin_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c26b3302b278850800000000000000
+      internalID: 6379114814500121687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Sasuke_skill_Kirin_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 28
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ade0ef8730fe0a0800000000000000
+      internalID: -6850252690013889940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Sasuke_skill_Kirin_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 28
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa24bb778c73a7e0800000000000000
+      internalID: -1755422508406527242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Sasuke_skill_Kirin_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 28
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c9e97e731110810800000000000000
+      internalID: 1729682663693786187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Sasuke_skill_Kirin_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 28
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ca220cb34880970800000000000000
+      internalID: 8721366070564400216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Sasuke_skill_Kirin_29
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 28
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022bb7920150d510800000000000000
+      internalID: 1571845341529711115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Sasuke_skill_Kirin_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 28
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d93081a5b0e8e50800000000000000
+      internalID: 6813395767835991423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
